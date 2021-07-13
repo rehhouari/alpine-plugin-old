@@ -1,0 +1,6 @@
+{
+    "name": "{package-name}",
+    "description": "{package-description}",
+    "main": "dist/module.cjs.js",
+    "module": "dist/module.esm.js"
+}
