@@ -17,7 +17,7 @@ Be sure to do a site wide search/replace for the following:
 
 ```
 {author-name} - Example: Rafik El Hadi Houari
-AlpinePlugin - The name of your plugin in PascalCase
+PluginName - The name of your plugin in PascalCase
 {current-year} - Example: 2021
 {package-description} - The summary
 {npm-package} - The name of your npm package. Example: `plugin-name`
