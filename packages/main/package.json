@@ -2,5 +2,10 @@
     "name": "{package-name}",
     "description": "{package-description}",
     "main": "dist/module.cjs.js",
-    "module": "dist/module.esm.js"
+    "module": "dist/module.esm.js",
+    "author": {
+        "name": "{author-name}",
+        "email": "{author-email}",
+        "url": "{author-url}"
+    }
 }
